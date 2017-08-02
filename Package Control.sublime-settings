@@ -11,6 +11,8 @@
 		"GitGutter",
 		"Package Control",
 		"PackageResourceViewer",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"Themes Menu Switcher"
 	]
 }
